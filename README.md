@@ -14,7 +14,7 @@ Avaliar desempenho usando métricas adequadas para classes desbalanceadas
 
 Visualizar curvas ROC, recall e análises por limiar
 
-Testar diferentes penalidades e regularizações via grid search
+Testar diferentes penalidades e regularizações via grid search.
 
 # Sobre o Dataset
 
