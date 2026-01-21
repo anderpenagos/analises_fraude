@@ -119,7 +119,7 @@ As curvas ROC e recall mostram claramente a sensibilidade do modelo à escolha d
 O Grid Search identifica melhores combinações de regularização para lidar com o desbalanceamento.
 
 ---
-```markdown
+
 # Introdução
 
 Este conteúdo é parte de uma das tarefas deixada numa disciplina introdutória de machine learning. Nela vamos aplicar alguns métodos de classificação a partir de uma base de dados que contem transações bancarias 
