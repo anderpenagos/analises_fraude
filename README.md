@@ -885,9 +885,8 @@ plt.show()
 ```
 
 
-    
+
 ![png](analises_fraude_files/analises_fraude_20_0.png)
-    
 
 
 Para este classificador vamos criar uma curva de recall de precisão e uma curva roc usando y_test e y_prob (a estimativa de probabilidade para X_test, probabilidade de ser fraude). Posterimente, vamos criar uma função que para a curva de recuperação de precisão, determina qual é a recuperação quando a precisão é 0,75. Alem disso, para a curva roc determina a taxa de verdadeiros positivos quando a taxa de falsos positivos é 0,16.
